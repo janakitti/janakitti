@@ -1,5 +1,4 @@
 ### Hi there 👋
-[![Janakitti's github stats](https://github-readme-stats.vercel.app/api?username=janakitti)](https://github.com/janakitti/github-readme-stats)
 <!--
 **janakitti/janakitti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
